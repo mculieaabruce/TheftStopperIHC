@@ -1,0 +1,87 @@
+
+body{
+    font-family: 'Commissioner', sans-serif;
+    font-size: 16px;
+    background-color: black;
+}
+.subtit{
+    text-align: center;
+    font-size: 6rem;
+    color:white;
+}
+
+.text{
+    justify-content: center;
+    text-align: center;
+    color: #959595;
+    font-size: 3rem;
+}
+.textcontainer{
+    margin: 5rem 15rem;
+    text-align: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    display: block;
+    text-align: center;
+    text-size-adjust: auto;
+}
+
+.titulo{
+    color: red;
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 400;
+}
+.titulo span{
+    color: white;
+    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 400;
+}
+.contenedor{
+    width:120rem;
+    margin: 0 auto;
+}
+.navegacion_bg{
+    background-color: black;
+}
+.navegacion-principal{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion-principal a {
+    text-decoration: none;
+    color:#959595;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+.navegacion-principal a:hover{
+    color:white;
+    text-decoration: underline;
+}
+
+
+
+.imginicio-container {
+    display: flex;
+    justify-content: center;
+}
+.imginicio-container img {
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    height: 600px;
+}
+.tmn{
+    width: 500px;
+    height: 400px;
+    margin-right: 20px ;
+}
+.tmncontainer {
+    display: flex;
+    justify-content: center;
+}
+
